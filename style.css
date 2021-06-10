@@ -38,6 +38,15 @@ h2{
     font-family: "Roboto Mono", monospace ;
     padding-top: 40px;
 }
+h3{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    color: white;
+    font-family: cursive;
+    font-size: 15px;
+    font-weight: normal;
+}
 .container{
     width: 300px;
     position: relative;
